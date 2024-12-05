@@ -1,4 +1,4 @@
-## Marco Herrera 
+## Marco Herrera 🌟
 
 Hi! I'm a Computing Engineering Undergraduate at Instituto Tecnológico de Costa Rica. I am a passionate developer with a keen interest in both web development and low-level programming.
 
